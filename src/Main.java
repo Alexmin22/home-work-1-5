@@ -5,8 +5,6 @@ public class Main {
         task3();
         task4();
         task5();
-        task6();
-        task7();
     }
 
     public static void task1 () {
@@ -95,15 +93,5 @@ public class Main {
             default:
                 System.out.println("В году только 12 месяцев");
         }
-    }
-
-    public static void task6 () {
-        System.out.println("Задача 2");
-
-    }
-
-    public static void task7 () {
-        System.out.println("Задача 2");
-
     }
 }
